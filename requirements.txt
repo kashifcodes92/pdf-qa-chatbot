@@ -1,0 +1,6 @@
+streamlit>=1.34
+openai>=1.30
+pypdf
+sentence-transformers
+faiss-cpu
+python-dotenv

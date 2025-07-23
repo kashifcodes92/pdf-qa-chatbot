@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+.env
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Streamlit secrets (optional)
+.streamlit/secrets.toml
